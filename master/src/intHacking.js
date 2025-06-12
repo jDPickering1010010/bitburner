@@ -46,4 +46,4 @@ export async function main(ns) {
   ns.tprint(`[${localeHHMMSS()}] Spawning killAll.js`)
   ns.spawn('killAll.js', 1, 'runHacking.js')
 }
-}
+
