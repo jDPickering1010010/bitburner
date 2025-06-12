@@ -1,4 +1,3 @@
-/** @param {NS} ns */
 export async function main(ns) {
 const baseUrl = 'https://github.com/jDPickering1010010/bitburner/master/src/'
 const filesToDownload = [
